@@ -8,7 +8,7 @@
 
 - 📫 **Email**: tahminaual@gmail.com
 - 🌐 **LinkedIn**: [Tahmina Chowdhury](https://www.linkedin.com/in/tahmina-chowdhury-7aab5329/)
-- 📝 **Portfolio**: [YourWebsite.com](https://yourwebsite.com)
+  
 
 ---
 
@@ -50,6 +50,8 @@ I am a Full Stack Developer specializing in PHP, Laravel, Next.js, and React. My
 ### [Harvey Nichols eCommerce](https://www.harveynichols.com/)
 **Role**: WordPress and React Developer  
 **Description**: Rebuilt the entire site with WordPress as a CMS and React for a dynamic front-end. Customized plugins and optimized cross-browser compatibility.
+
+
 
 ---
 
