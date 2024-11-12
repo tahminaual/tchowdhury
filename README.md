@@ -54,6 +54,52 @@ I am a Full Stack Developer specializing in PHP, Laravel, Next.js, and React. My
 
 
 ---
+### Other Relevant Projects with WordPress
+
+1. **[British Garden Centres](https://www.britishgardencentres.com/)**  
+   - **Implemented**: Used WordPress Bedrock backend and React components for a responsive, cross-platform experience.
+
+2. **[My Trading Skills](https://www.mytradingskills.com/)**  
+   - **Built from Scratch**: Developed with WordPress backend, HTML5, CSS3, BuddyPress, LearnDash, AWS, and WooCommerce.
+
+3. **[Saranac Partners](https://saranacpartners.com/)**  
+   - **Full Development**: Created a custom WordPress backend with React frontend and interactive elements powered by JavaScript.
+
+4. **[Fen Farm Dairy](https://fenfarmdairy.co.uk/)**  
+   - **Complete Site**: Full WordPress site with React customizations for enhanced user interactions.
+
+5. **[Arlo Security Camera](https://ukshop.arlo.com/)**  
+   - **PSD to Site**: Implemented the entire site from PSD designs to functional using WordPress and React.
+
+---
+## 🗂️ Additional WordPress Sites and Key Projects
+
+1. **[Not Another Bunch of Flowers](https://www.notanotherbunchofflowers.com/)** – Full WordPress and eCommerce site.
+2. **[Barry Flanagan](https://www.barryflanagan.com/)** – Custom WordPress site.
+3. **[Oxo Tower Restaurant](https://www.oxotowerrestaurant.com/)** – Full site implementation.
+4. **[Bletchley Park](https://bletchleypark.org.uk/)** – Developed Roll of Honour plugin.
+5. **[Old Red Lion Pub](https://www.oldredlionpub.co.uk/)** – Support and custom template implementation.
+6. **[iNews](https://inews.co.uk/)** – Plugin implementations and site support.
+7. **[Metro](https://metro.co.uk/)** – Site support and theme development.
+8. **[Silverstone Park](https://silverstone-park.com/)** – Theme and plugin development.
+9. **[ID Medical](https://www.id-medical.com/)** – Custom WordPress site development.
+10. **[Making Starts Here](http://www.makingstartshere.com/)** – Geolocation and language-based redirection.
+
+---
+
+## 🏢 Property and Miscellaneous Sites
+
+1. **[Lucy Property](https://lucyproperties.co.uk/)**  
+   - Modex CMS site implementation and customization for property listings.
+
+2. **[Next Property](https://nextproperty.co.uk/)**  
+   - Full site build with customizations for property listings.
+
+3. **[The Stage](https://www.thestage.co.uk/)**  
+   - Developed from scratch with extensive JavaScript customization.
+
+4. **[Hanwha Security](https://www.hanwha-security.eu/)**  
+   - Custom frontend and backend development using Foundation and JavaScript.
 
 ## 📈 GitHub Stats
 
